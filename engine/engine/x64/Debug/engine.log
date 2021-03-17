@@ -1,1 +1,82 @@
-﻿  engine.vcxproj -> C:\Users\Nacho\Desktop\Guitar Hero\engine\x64\Debug\engine.exe
+﻿  Camera.cpp
+  Color.cpp
+  Cube.cpp
+  Cuboid.cpp
+  Cylinder.cpp
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\Cylinder.cpp(11,24): warning C4150: eliminación de puntero a tipo 'GLUquadric' incompleto; no se ha llamado a un destructor
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GL\glu.h(163): message : vea la declaración de 'GLUquadric'
+  engine.cpp
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\FlyingCamera.h(13,56): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\FlyingCamera.h(15,56): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\ScoreManager.h(16,41): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\ScoreManager.h(19,53): warning C4244: '=': conversión de 'const int' a 'float'; posible pérdida de datos
+  FlyingCamera.cpp
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\FlyingCamera.h(13,56): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\FlyingCamera.h(15,56): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\FlyingCamera.cpp(15,30): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\FlyingCamera.cpp(16,30): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Game.cpp
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\FlyingCamera.h(13,56): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\FlyingCamera.h(15,56): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\Game.cpp(43,61): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\Game.cpp(43,40): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\Game.cpp(43,19): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\Game.cpp(44,58): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\Game.cpp(44,37): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\Game.cpp(44,16): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\Game.cpp(45,64): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\Game.cpp(45,42): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\Game.cpp(45,20): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\Game.cpp(46,9): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\Game.cpp(57,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\Game.cpp(58,28): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\Game.cpp(59,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\Game.cpp(62,2): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\Game.cpp(109,36): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\Game.cpp(167,29): warning C4244: 'argumento': conversión de 'const double' a 'const float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\Game.cpp(168,47): warning C4244: '=': conversión de '_Rep' a 'long'; posible pérdida de datos
+          with
+          [
+              _Rep=__int64
+          ]
+  GHGame.cpp
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\FlyingCamera.h(13,56): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\FlyingCamera.h(15,56): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\ScoreManager.h(16,41): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\ScoreManager.h(19,53): warning C4244: '=': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\GHGame.cpp(35,29): warning C4244: 'argumento': conversión de 'const double' a 'const float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\GHGame.cpp(36,47): warning C4244: '=': conversión de '_Rep' a 'long'; posible pérdida de datos
+          with
+          [
+              _Rep=__int64
+          ]
+  GHScene.cpp
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\FlyingCamera.h(13,56): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\FlyingCamera.h(15,56): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\ScoreManager.h(16,41): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\ScoreManager.h(19,53): warning C4244: '=': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\GHScene.cpp(19,28): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\GHScene.cpp(31,35): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\GHScene.cpp(141,31): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Model.cpp
+  Note.cpp
+  ScoreManager.cpp
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\ScoreManager.h(16,41): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\ScoreManager.h(19,53): warning C4244: '=': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\ScoreManager.cpp(11,21): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+  Scene.cpp
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\FlyingCamera.h(13,56): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\FlyingCamera.h(15,56): warning C4244: 'return': conversión de 'const int' a 'float'; posible pérdida de datos
+  GameObject.cpp
+  Song.cpp
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\Song.cpp(85,35): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Sphere.cpp
+  Teapot.cpp
+  Torus.cpp
+  Triangle.cpp
+  Generando código...
+C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\engine\Song.h(26): warning C4715: 'Song::GetNoteTime': no todas las rutas de acceso de control devuelven un valor
+  Compilando...
+  Vector3D.cpp
+  Generando código...
+  engine.vcxproj -> C:\Users\Nacho\Documents\GitHub\Motor-Grafico-OpenGl\engine\x64\Debug\engine.exe
